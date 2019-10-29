@@ -1,4 +1,4 @@
 # Node.js
 
-Estudo sobre javascript com Node.js e alguns frameworks com: **Express**
+Estudo sobre javascript com Node.js e alguns frameworks como: **Express**
 
