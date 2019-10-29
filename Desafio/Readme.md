@@ -14,7 +14,7 @@ Crie uma aplicação para armazenar projetos e suas tarefas do zero utilizando E
 - `POST /projects/:id/tasks`: A rota deve receber um campo title e armazenar uma nova tarefa no array de tarefas de um projeto específico escolhido através do id presente nos parâmetros da rota;
 
 ## Exemplo
-Se eu chamar a rota `**POST** /projects` repassando `{ id: 1, title: 'Novo projeto' }` e a rota `**POST** /projects/1/tasks` com `{ title: 'Nova tarefa' }`, meu array de projetos deve ficar assim:
+Se eu chamar a rota `POST /projects` repassando `{ id: 1, title: 'Novo projeto' }` e a rota `POST /projects/1/tasks` com `{ title: 'Nova tarefa' }`, meu array de projetos deve ficar assim:
 
 ```js
 [
