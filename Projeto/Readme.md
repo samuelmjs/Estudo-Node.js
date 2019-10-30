@@ -1,6 +1,6 @@
 # Back-end GoBarber
 
-> Agendamento de serviços de beleza
+Agendamento de serviços de beleza
 
 ## Conceitos vistos
 
